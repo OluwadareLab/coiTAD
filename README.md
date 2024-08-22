@@ -1,2 +1,1 @@
-# coiTAD
-coiTAD: Topologically Associating Domains Detection based on Circular Influence Features 
+# coiTAD: Topologically Associating Domains Detection based on Circular Influence Features 
