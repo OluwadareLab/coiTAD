@@ -1,5 +1,4 @@
-# coiTAD: Topologically Associating Domains Detection based on Circular Influence Features 
-
+# coiTAD: Topologically Associating Domains Detection based on Clustering of Circular Influence Features from Hi-C data
 To use coiTAD:
 1. Change filepath variables to match your system.
 2. Ensure Chr_Data refers to the dataset that you are working on in both the Feature Generation and Main code files
